@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <version>2.1.0</version>
+    <hospital_id>GT-001</hospital_id>
+    <modules>
+        <module name="diagnostics" enabled="true"/>
+        <module name="reports" enabled="true"/>
+        <module name="sync" enabled="true"/>
+    </modules>
+</configuration>
